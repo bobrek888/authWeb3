@@ -3,3 +3,4 @@
   "extends": ["@toruslabs/eslint-config-typescript"],
   "parser": "@typescript-eslint/parser",
  "parserOptions": {
+   "sourceType": "module",
