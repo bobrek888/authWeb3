@@ -6,3 +6,5 @@
    "sourceType": "module",
     "ecmaVersion": 11,
     "project": "./tsconfig.json"
+  },
+  "rules": {
