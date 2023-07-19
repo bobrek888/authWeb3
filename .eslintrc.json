@@ -10,3 +10,4 @@
   "rules": {
     "@typescript-eslint/no-throw-literal": 0,
     "no-case-declarations": 0,
+    "import/extensions": [
