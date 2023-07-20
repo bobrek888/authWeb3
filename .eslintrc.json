@@ -12,3 +12,4 @@
     "no-case-declarations": 0,
     "import/extensions": [
     "error",
+     "ignorePackages",
