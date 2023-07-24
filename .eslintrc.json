@@ -18,3 +18,7 @@
         "jsx": "never",
         "ts": "never",
  "tsx": "never"
+      }
+    ]
+  },
+  "env": {
