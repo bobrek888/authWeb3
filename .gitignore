@@ -111,3 +111,4 @@ dist
 .rollup*
 .yalc
 yalc.lock
+types
