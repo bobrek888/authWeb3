@@ -113,3 +113,5 @@ dist
 yalc.lock
 types
 build/
+# FuseBox cache
+.fusebox/
