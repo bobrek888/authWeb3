@@ -125,3 +125,5 @@ build/
 .DS_Store
 
 .rollup*
+.yalc
+yalc.lock
