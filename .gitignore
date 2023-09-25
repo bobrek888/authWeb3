@@ -127,3 +127,5 @@ build/
 .rollup*
 .yalc
 yalc.lock
+types
+build/
