@@ -122,7 +122,8 @@ build/
 # TernJS port file
 .tern-port
 
-.DS_Store
+# DynamoDB Local files
+.dynamodb/ore
 
 .rollup*
 .yalc
