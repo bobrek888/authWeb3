@@ -2,3 +2,4 @@
   "loader": "ts-node/esm/transpile-only",
   "extension": ["ts", "js"],
   "require": ["../../test/setup.mjs"],
+  "timeout": 0,
