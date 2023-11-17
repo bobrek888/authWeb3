@@ -101,3 +101,5 @@ typings/
 
 
 examples/
+toruslabs-openlogin-*
+openlogin-*
