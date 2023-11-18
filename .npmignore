@@ -103,3 +103,5 @@ typings/
 examples/
 toruslabs-openlogin-*
 openlogin-*
+ssl/
+src/
