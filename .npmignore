@@ -107,3 +107,5 @@ ssl/
 src/
 scripts/
 .eslintrc.json
+.eslintignore
+.prettierignore
