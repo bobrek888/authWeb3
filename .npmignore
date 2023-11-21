@@ -109,3 +109,4 @@ scripts/
 .eslintrc.json
 .eslintignore
 .prettierignore
+.prettierrc.yaml
