@@ -110,3 +110,4 @@ scripts/
 .eslintignore
 .prettierignore
 .prettierrc.yaml
+.babelrc
